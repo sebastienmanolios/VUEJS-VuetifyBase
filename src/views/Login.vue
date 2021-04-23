@@ -24,7 +24,6 @@
       <v-spacer></v-spacer>
       <v-btn color="info">Login</v-btn>
     </v-card-actions>
-
   </v-card>
 </template>
 

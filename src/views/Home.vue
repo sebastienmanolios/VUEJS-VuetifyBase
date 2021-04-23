@@ -1,15 +1,11 @@
 <template>
-<v-container>
-  <p>dede</p>
-</v-container>
-
+  <v-container>
+  </v-container>
 </template>
 
 <script>
-
-
-export default {
-  name: 'Home',
-  
-}
+  export default {
+    name: 'Home',
+    
+  }
 </script>
